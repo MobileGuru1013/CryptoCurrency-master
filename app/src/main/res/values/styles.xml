@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#795548</item>
+        <!-- Light Indigo -->
+        <item name="colorPrimaryDark">#3E2723</item>
+        <!-- Dark Indigo -->
+        <item name="colorAccent">#3E2723</item>
+        <!-- Blue -->
+    </style>
+    <style name="AppTheme" parent="AppTheme.Base"></style>
+    <style name="collapsingToolbarLayoutTitleColor" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#3E2723</item>
+    </style>
+</resources>

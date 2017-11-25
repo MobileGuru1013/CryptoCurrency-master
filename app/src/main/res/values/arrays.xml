@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="currencyNames">
+        <item>Nigerian Naira</item>
+        <item>US Dollar</item>
+        <item>Euro</item>
+        <item>JAPANESE YEN</item>
+        <item>British Pound</item>
+        <item>Australian Dollar</item>
+        <item>Canadian Dollar</item>
+        <item>Swiss Franc</item>
+        <item>Swedish krona</item>
+        <item>New Zealand Dollar</item>
+        <item>Mexican Peso</item>
+        <item>Singapore Dollar</item>
+        <item>Hong Kong Dollar</item>
+        <item>Norwegian Krone</item>
+        <item>South Korean</item>
+        <item>Turkish lira</item>
+        <item>Russian ruble</item>
+        <item>Indian rupee</item>
+        <item>Brazilian real</item>
+        <item>South African Rand</item>
+    </string-array>
+
+
+
+    <array name="country_flags">
+        <item>@drawable/nigeria</item>
+        <item>@drawable/flag</item>
+        <item>@drawable/flageuro</item>
+        <item>@drawable/japan</item>
+        <item>@drawable/unitedkingdom</item>
+        <item>@drawable/australia</item>
+        <item>@drawable/canada</item>
+        <item>@drawable/swissflag</item>
+        <item>@drawable/sweden</item>
+        <item>@drawable/newzealand</item>
+        <item>@drawable/mexican</item>
+        <item>@drawable/singapore</item>
+        <item>@drawable/hongkong</item>
+        <item>@drawable/norway</item>
+        <item>@drawable/southkorea</item>
+        <item>@drawable/turkey</item>
+        <item>@drawable/russia</item>
+        <item>@drawable/india</item>
+        <item>@drawable/brazil</item>
+        <item>@drawable/southafrica</item>
+    </array>
+
+
+</resources>
+
